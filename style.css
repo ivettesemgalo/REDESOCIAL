@@ -9,7 +9,7 @@
 
 body{
     background-color: var(--bg-color);
-    color: var(--primary-color);.
+    color: var(--primary-color);
     font-family: var(--font);
     height: 100vg;
     margin: 0;
@@ -21,5 +21,10 @@ header{
     text-align: center;
 }
 
+h1 {
+    font-size: 2rem;
+    color: var(--bg-color);
+    font-weight: 700;
+}
 
-
+nav
